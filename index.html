@@ -4,9 +4,44 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+    <title>My CV</title>
 </head>
 <body>
+    <div class="container">
+        <h1>Bulatova Ekaterina Vitalevna</h1>
+        <img src="20161126_173439.jpg" alt="photo">  
+
+        <h2>Contact info</h2>    
+        <em>email: karmanytiger@mail.ru</em><br>
+        <em>phone: 8-937-067-43-59</em><br>
+
+        <h2>Summary</h2>
+        <p>So far, I am only at the beginning of the path of a programmer. But I really like it. I try to constantly develop, not to stand still. My goal at the moment is to finish the courses RSSchool and get a job as a junior developer.</p>
+
+        <h2>Skills</h2>
+        <ul>
+            <li>HTML, CSS, JavaScript (basics)</li>
+            <li>PHP (basics)</li>
+            <li>Git</li>
+            <li>Operating Systems (Ubuntu, Windows)</li>
+            <li>Object-oriented programming</li>
+        </ul>
     
+        <h2>Code examples</h2>
+        <div class="code">
+            <pre>
+        const fizzBuzz = (begin, end) => {
+            for (let i = begin; i <= end; i += 1) {
+                const hasFizz = i % 3 === 0;
+                const hasBuzz = i % 5 === 0;
+                const fizzPart = hasFizz ? 'Fizz' : '';
+                const buzzPart = hazBuzz ? 'Buzz' : '';
+                console.log(hasFizz || hasBuzz ? `${fizzPart}${buzzPart}` : i);
+            }
+        };
+            </pre>
+        </div>
+    </div>
 </body>
 </html>
