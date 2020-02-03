@@ -1,15 +1,15 @@
 # Bulatova Ekaterina Vitalevna  
-___
+
 **Contact info**  
 *email: karmanytiger@mail.ru*  
 *phone: 8-937-067-43-59*
 
 ## Summary  
-___ 
+
 So far, I am only at the beginning of the path of a programmer. But I really like it. I try to constantly develop, not to stand still. My goal at the moment is to finish the courses RSSchool and get a job as a junior developer.
 
 ## Skills  
-___
+
 * HTML, CSS, JavaScript (basics)
 * PHP (basics)
 * Git
@@ -17,7 +17,7 @@ ___
 * Object-oriented programming
 
 ## Code examples  
-___  
+
 ```  
 const fizzBuzz = (begin, end) => {  
 	for (let i = begin; i <= end; i += 1) {  
@@ -31,7 +31,7 @@ const fizzBuzz = (begin, end) => {
 ```  
 
 ## Experience  
-___   
+
 Tasks from [Hexlet](https://ru.hexlet.io/my)  
 Examples:  
 ```  
@@ -47,7 +47,7 @@ const reverse = (str) => {
 };
 ```  
 ## Education
-___
+
 **2010 - 2012**  
 Samara University ( Engineering )  
 **2019**  
@@ -57,6 +57,6 @@ Online Courses:
 * Harvard CS50
 
 ## English  
-___
+
 Level A2 *(Pre-Intermediate)*  
-___
+  
